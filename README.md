@@ -1,7 +1,7 @@
 # Arduino & compatible clone MCUs
-Arduino AVR compatible microcontrollers physical test and review for ATMega328P, LGT8F328P, STM32...etc on selected project sketches.
+Arduino AVR compatible microcontrollers physical sketch test and review for ATMega328P, LGT8F328P, STM32...etc on selected projects.
 
-In the learning of Arduino, especially dealing with clone chips such as LGT8F328P, there often lack of information on how the final circuitry is setup and running successfully   although the HOW-TO description guide was given, somehow you may find physical implementation can be different.
+In the learning of Arduino and its clone chips, there will be frustration moment merely because the information is not sufficient.
 
-Therefore, this channel is held to document the physical hands-on process so we can understand better.
+Therefore, this channel is to help understanding via the physical hands-on process documented.
 
