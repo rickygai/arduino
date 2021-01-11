@@ -5,5 +5,4 @@ In the learning of Arduino and its clone chips, there will be frustration moment
 
 Therefore, this channel is to share information documented from the findings during the physical hands-on process.
 
-# LGT8F328P.PDF
-Contains information about how to burn BOOTLOADER using LarduinoISP with the use of LGT8F328P clone chips.
+
