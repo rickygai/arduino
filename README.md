@@ -3,6 +3,6 @@ Arduino AVR compatible microcontrollers sketch test and circuit review for ATMeg
 
 In the learning of Arduino and its clone chips, there will be frustration moment merely because the information is not sufficient and the implementation may not be the same as the circuit diagram or guidelines given.
 
-<img src="images/magic_wand.png" width="32" height="32"> Therefore, this channel is to share information documented from the findings during the physical hands-on process.
+Therefore, this channel is to share information documented from the findings during the physical hands-on process.
 
 
