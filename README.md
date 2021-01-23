@@ -6,3 +6,10 @@ In the learning of Arduino platform and its compatible chips, there will be diff
 This channel contains success information from the findings during the physical sketch programming and circuitry implementation using Arduino platform compatible MCUs.
 
 
+# ATMEGA328P.PDF
+- How to burn bootloader ?
+
+# LGT8F328P.PDF
+- How to burn bootloader using LarduinoISP ?
+
+
