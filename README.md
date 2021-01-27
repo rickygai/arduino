@@ -3,7 +3,7 @@ The hands-on guide to the use of Arduino platform compatible microcontrollers su
 
 In the learning of Arduino platform and its compatible chips, there will be difficult moment merely due to lack of information.
 
-This channel contains success information from the findings during the hands-on of sketch and circuitry implementation using Arduino platform compatible MCUs.
+This channel contains neccessary information derived from the findings during the hands-on process, important software tools from chip sellers as well as information from certain Chinese support website or forum.
 
 
 # ATMEGA328P.PDF
