@@ -4,7 +4,11 @@
 
 The hands-on guide to the use of Arduino platform compatible Microcontrollers such as ATMega328P, LGT8F328P, STM32, ESP32...etc.
 
-This channel contains neccessary information derived from the findings during the hands-on process, important software received from respective vendor support.
+This channel will brief you about:
+
+- Software development toolchain management
+- Vendor support software 
+- Hardware Programmers
  
  
 # ATMEGA328P.PDF
