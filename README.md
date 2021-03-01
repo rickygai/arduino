@@ -1,7 +1,8 @@
-# Arduino platform compatible MCUs 
+# Arduino platform compatible Microcontrollers 
 **A Programmer's Perspective**
 
-The hands-on guide to the use of Arduino platform compatible microcontrollers such as ATMega328P, LGT8F328P, STM32, ESP32...etc.
+
+The hands-on guide to the use of Arduino platform compatible Microcontrollers such as ATMega328P, LGT8F328P, STM32, ESP32...etc.
 
 In the learning of Arduino platform and its compatible chips, there will be difficult moment merely due to lack of information.
 
