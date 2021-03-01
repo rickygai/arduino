@@ -1,5 +1,5 @@
-# Arduino platform compatible MCUs
-A Programmer's Perspective
+#Arduino platform compatible MCUs 
+##A Programmer's Perspective
 
 The hands-on guide to the use of Arduino platform compatible microcontrollers such as ATMega328P, LGT8F328P, STM32, ESP32...etc.
 
