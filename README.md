@@ -7,7 +7,7 @@ The hands-on guide to the use of Arduino platform compatible Microcontrollers su
 This channel will brief you about:
 
 - Software development toolchain management
-- Vendor software driver 
+- Vendor software
 - Hardware Programmers
 <br><br/>
 
