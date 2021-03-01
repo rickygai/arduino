@@ -9,8 +9,8 @@ This channel will brief you about:
 - Software development toolchain management
 - Vendor support software 
 - Hardware Programmers
- 
-  
+<br/>
+<br/>
 # ATMEGA328P.PDF
 - How to burn bootloader ?
 
