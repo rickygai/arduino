@@ -1,8 +1,8 @@
 # Arduino platform compatible Microcontrollers 
 **A Programmer's Perspective**
+<br><br/>
 
-
-The hands-on guide to the use of Arduino platform compatible Microcontrollers such as ATMega328P, LGT8F328P, STM32, ESP32...etc.
+Welcome to the hands-on guide to the Arduino platform compatible Microcontrollers such as ATtiny85, ATMega328P, LGT8F328P, STM32 and ESP32.
 
 This channel will brief you about:
 
