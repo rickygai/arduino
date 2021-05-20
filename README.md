@@ -9,6 +9,7 @@ This channel will brief you about:
 - Software development toolchain management
 - Vendor software
 - Hardware programmers
+- Hands-on projects
 <br><br/>
 
 # ATMEGA328P.PDF
